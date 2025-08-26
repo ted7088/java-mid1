@@ -12,6 +12,8 @@ public class ObjectPolyExample2 {
         size(objects);
     }
 
+
+    //object의 길이
     private static void size(Object[] objects) {
         System.out.println("전달된 객체의 수는: " + objects.length);
     }
