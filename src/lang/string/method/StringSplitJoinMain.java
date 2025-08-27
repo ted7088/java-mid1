@@ -1,5 +1,6 @@
 package lang.string.method;
 
+//문자열 메소드
 public class StringSplitJoinMain {
 
     public static void main(String[] args) {
