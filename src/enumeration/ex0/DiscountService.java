@@ -1,5 +1,6 @@
 package enumeration.ex0;
 
+//열거형 생성 이유
 public class DiscountService {
 
     public int discount(String grade, int price) {
