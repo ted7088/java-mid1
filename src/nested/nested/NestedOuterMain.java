@@ -9,4 +9,5 @@ public class NestedOuterMain {
 
         System.out.println("nestedClass = " + nested.getClass());
     }
+
 }
