@@ -1,5 +1,5 @@
 package nested.inner.ex2;
-
+//자동차 객체 생성
 public class Car {
     private String model;
     private int chargeLevel;
