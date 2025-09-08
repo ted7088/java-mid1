@@ -27,6 +27,7 @@ public class LocalOuterV3 {
         LocalPrinter printer = new LocalPrinter();
 
         //printer.print();를 여기서 실행하지 않고 Printer 인스턴스만 반환한다.
+
         return printer;
     }
 
