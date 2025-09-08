@@ -37,6 +37,7 @@ public class LocalOuterV3 {
         printer.print();
 
         //추가
+        //자바는 캡처를 통해 극복
         System.out.println("필드 확인");
         Field[] fields = printer.getClass().getDeclaredFields();
         for (Field field : fields) {
