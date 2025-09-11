@@ -2,6 +2,8 @@ package nested.anonymous;
 
 import nested.local.Printer;
 
+
+//값차이
 public class AnonymousOuter {
 
     private int outInstanceVar = 3;
