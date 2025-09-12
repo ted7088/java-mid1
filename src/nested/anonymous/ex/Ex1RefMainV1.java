@@ -7,6 +7,7 @@ public class Ex1RefMainV1 {
     public static void hello(Process process) {
         System.out.println("프로그램 시작");
 
+        //조각단위로 분리
         //코드 조각 시작
         process.run();
         //코드 조각 종료
