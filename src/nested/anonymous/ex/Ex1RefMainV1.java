@@ -15,6 +15,7 @@ public class Ex1RefMainV1 {
         System.out.println("프로그램 종료");
     }
 
+    //상속받아 재구성
     static class Dice implements Process {
 
         @Override
