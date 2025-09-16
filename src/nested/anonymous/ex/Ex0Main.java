@@ -1,5 +1,5 @@
 package nested.anonymous.ex;
-
+//처음 메인 메소드
 public class Ex0Main {
 
     public static void helloJava() {
