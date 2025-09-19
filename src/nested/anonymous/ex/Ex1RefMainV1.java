@@ -16,6 +16,7 @@ public class Ex1RefMainV1 {
     }
 
     //상속받아 재구성
+    //구성
     static class Dice implements Process {
 
         @Override
